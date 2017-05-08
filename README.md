@@ -1,5 +1,5 @@
 # week10project
-<?php namespace Cart\View; ?>
+
 
 	
 	
